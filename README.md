@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @cadexx03
-- 👀 I’
+A crypto enthusiast.
 
 <!---
 cadexx03/cadexx03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
